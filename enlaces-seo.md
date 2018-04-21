@@ -4,7 +4,7 @@
 - Validador Html W3C https://validator.w3.org/
 - CSS validador http://jigsaw.w3.org/css-validator
 - Validador de AMP https://validator.ampproject.org/ (Tambieén se puede validar poniendo en la url *#development=1* )
-- Depurador de contenido para Facebook https://developers.facebook.com/tools/debug/ 
+- Facebook depurador de contenido https://developers.facebook.com/tools/debug/ 
 - Link checker https://validator.w3.org/checklink
 
 
